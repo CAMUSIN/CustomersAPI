@@ -1,0 +1,12 @@
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\bin\Debug\net6.0\CustomersAPI.Data.deps.json
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\bin\Debug\net6.0\CustomersAPI.Data.dll
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\bin\Debug\net6.0\CustomersAPI.Data.pdb
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\CustomersAPI.Data.csproj.AssemblyReference.cache
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\CustomersAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\CustomersAPI.Data.AssemblyInfoInputs.cache
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\CustomersAPI.Data.AssemblyInfo.cs
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\CustomersAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\CustomersAPI.Data.dll
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\refint\CustomersAPI.Data.dll
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\CustomersAPI.Data.pdb
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Data\obj\Debug\net6.0\ref\CustomersAPI.Data.dll

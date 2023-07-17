@@ -1,0 +1,15 @@
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\bin\Debug\net6.0\CustomersAPI.Business.deps.json
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\bin\Debug\net6.0\CustomersAPI.Business.dll
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\bin\Debug\net6.0\CustomersAPI.Business.pdb
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\bin\Debug\net6.0\CustomersAPI.Data.dll
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\bin\Debug\net6.0\CustomersAPI.Data.pdb
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\CustomersAPI.Business.csproj.AssemblyReference.cache
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\CustomersAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\CustomersAPI.Business.AssemblyInfoInputs.cache
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\CustomersAPI.Business.AssemblyInfo.cs
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\CustomersAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\CustomersAPI.Business.csproj.CopyComplete
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\CustomersAPI.Business.dll
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\refint\CustomersAPI.Business.dll
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\CustomersAPI.Business.pdb
+C:\Users\fergg\Code\BallastLaneCodeChallenge\DDFurnitureSystemsManager\CustomersAPI.Business\obj\Debug\net6.0\ref\CustomersAPI.Business.dll
