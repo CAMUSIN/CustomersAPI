@@ -1,0 +1,1 @@
+exec SP_ADD_USER 'AdminUser', 'AdminUserStrongPassword'
